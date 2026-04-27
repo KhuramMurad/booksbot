@@ -1,0 +1,3 @@
+# Extra packages to install on top of the Scrapy Cloud stack.
+# Do not include Scrapy here; the selected Scrapy Cloud stack provides it.
+scrapy-zyte-api
